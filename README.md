@@ -2,8 +2,10 @@
 Discord Chatbot made with Discords bot documentation.<br>
 
 if you type a message it will reply and give you the hang loose emoji.<br>
+
 type !help and an argument and it will say what you need help with. (!help Ruby will say "It appears you need help with Ruby"<br>
 if you type just !help it will reply with "I am not sure what you need help with. Try !help [topic]"<br>
+
 type !multiply and 2 numbers and it will multiply them.<br>
 
 The "playing" in the bots online area in your friends list is edited to say "with JavaScript" for "Playing with JavaScript"<br>
